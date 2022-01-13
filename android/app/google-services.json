@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972602436132",
+    "project_id": "mind-space-bmsce",
+    "storage_bucket": "mind-space-bmsce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972602436132:android:551224d0031334bd2106b1",
+        "android_client_info": {
+          "package_name": "com.example.mind_space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972602436132-jplhgk2h7rvlsvic0b9b283vmam6bihf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mind_space",
+            "certificate_hash": "58376d525430ca3b7bc898a7ee9c9962566d58fc"
+          }
+        },
+        {
+          "client_id": "972602436132-1mpj2mhreerfu1auth43bc6eebnn8snq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWECQuiusYsyB22WcGSNzCiyNchpqXhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972602436132-1mpj2mhreerfu1auth43bc6eebnn8snq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
